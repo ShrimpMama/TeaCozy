@@ -14,8 +14,11 @@ body {
 .header {
   display: flex;
   height: 69px;
+  width: 100%;
   border-bottom: 1px solid seashell;
   align-items: center;
+  position: fixed;
+  background-color: black;
 }
 
 .logo {
